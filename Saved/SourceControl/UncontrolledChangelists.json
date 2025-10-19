@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/FirstPerson/BP_ShooterController.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Lvl_ArenaShooter.umap",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_FirstPersonProjectile.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_TP_Pistol.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_TP_Rifle.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/UI/HealthWidget.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_FP_Pistol.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset"
+			]
+		}
+	]
+}
