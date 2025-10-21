@@ -17,7 +17,12 @@
 				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI.uasset",
 				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/UI/HealthWidget.uasset",
 				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_FP_Pistol.uasset",
-				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset"
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/ST_Shooter.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/BP_AICont.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/ST_Shooter_ShootAtTarget.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/StateTreeCondition_HasLineOfSightToTarget.uasset",
+				"C:/Users/dspor/Desktop/FPS_ZUT/FPS_ZUT/Content/Variant_Shooter/Blueprints/AI/StateTreeTask_SenseEnemies.uasset"
 			]
 		}
 	]
